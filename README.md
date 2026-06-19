@@ -24,4 +24,4 @@ MalinRead/
 │
 └── .github/
     └── workflows/
-        └── android.yml.
+        └── android.yml.   
