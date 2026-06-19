@@ -1,6 +1,3 @@
-# MalinRead-
-Reader
-
 MalinRead/
 │
 ├── settings.gradle.kts
@@ -27,4 +24,4 @@ MalinRead/
 │
 └── .github/
     └── workflows/
-        └── android.yml
+        └── android.yml.
